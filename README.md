@@ -1,1 +1,3 @@
-# Snake-Game
+# Snake-Game with turtle module
+
+Still learning python
